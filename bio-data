@@ -1,0 +1,20 @@
+#include <stdio.h>
+int main()
+{
+    printf("Name : S.Dinesh\n");
+    printf("Father's Name : P.Selvam\n");
+    printf("Mother's Name : S.Deepa\n");
+    printf("Date of Birth  : 22/08/2006\n");
+    printf("Religion : Hindu\n");
+    printf("College Name : K.S.Rangasamy College of Technaology\n");
+    printf("Department : B.E Computer Science and Engineering\n");
+    printf("Mother Tounge : Tamil\n");
+    printf("Nativity : Indian\n");
+    printf("Known Language : Tamil,English\n");
+    printf("Blood Group : B positive\n");
+    printf("City : Bhavani\n");
+    printf("District : Erode\n");
+    printf("Pincode : 638301\n");
+    printf("State : Tamil Nadu");
+      return 0;
+}
